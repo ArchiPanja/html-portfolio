@@ -1,0 +1,38 @@
+body{
+  background-color: #EABDE6;
+  background-image:url(https://i.pinimg.com/736x/b2/f2/ac/b2f2ac4ea58bf439976585c03a85fbf2.jpg);
+  background-size: cover, contain;
+  background-repeat: no-repeat, repeat;
+  background-position: center, top right;
+}
+div{
+    background-color: #441752;
+    height: 100%;
+    width:100%;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 50px;
+    padding:10px;
+    
+}
+img{
+    text-align: center;
+    margin-top: 2%;
+    margin-left:30%;
+    border:5px solid #441752;
+    height:auto;
+    width:auto;
+}
+h1{
+    color: #441752;
+    text-align:center;
+}
+p{
+    color:white;
+}
+li{
+    color:white;
+}
+h2{
+    color: #441752;
+}
